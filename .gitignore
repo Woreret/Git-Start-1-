@@ -1,0 +1,7 @@
+# Системні файли Windows
+Thumbs.db
+Desktop.ini
+
+# Тимчасові файли
+*.tmp
+*.log
